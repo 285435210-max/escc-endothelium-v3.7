@@ -1,0 +1,28 @@
+# Third-party publisher material - redistribution rights not granted
+*.pdf
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pptx
+
+# Raw / large matrices: retrieve from GEO and UCSC Xena instead
+*.gz
+*.mtx
+*.h5
+*.h5ad
+*.rds
+*.tar
+*.zip
+*.tif
+*.tiff
+data/
+out/
+raw/
+
+# Local intermediates
+__pycache__/
+*.pyc
+.Rhistory
+.Rproj.user
+.DS_Store
