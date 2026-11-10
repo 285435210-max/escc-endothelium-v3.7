@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article and this release."
+type: software
+title: "Analysis code for an ESCC endothelial-state atlas (manuscript v3.7)"
+abstract: "R and Python analysis code underlying the v3.7 ESCC endothelial-state manuscript, including tie-aware exact permutation tests, single-cell identity checks and seven-state stage analyses."
+authors:
+  - family-names: Liu
+    given-names: Bin
+    orcid: "https://orcid.org/0000-0002-0617-3629"
+    affiliation: "Heyou Hospital, Foshan, China"
+  - family-names: Ni
+    given-names: Zhen
+    affiliation: "Heyou Hospital, Foshan, China"
+  - family-names: Liang
+    given-names: Runbin
+    affiliation: "Heyou Hospital, Foshan, China"
+version: 1.0.0
+date-released: "2026-11-10"
+license: MIT
+keywords:
+  - esophageal squamous cell carcinoma
+  - single-cell RNA sequencing
+  - endothelial cells
+  - compositional data analysis
+  - reproducibility
