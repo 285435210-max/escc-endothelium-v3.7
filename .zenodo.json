@@ -1,0 +1,28 @@
+{
+  "upload_type": "software",
+  "title": "Analysis code for the ESCC endothelial-state manuscript (BMC Genomics submission)",
+  "description": "Reproducibility code for the ESCC endothelial-state manuscript. Code licence: MIT. v1.1.0 adds TMM+voom pseudobulk sensitivity, nested cross-validation with inner-loop feature re-selection, and GO enrichment using a tested-gene universe (Supplementary Table S16).",
+  "creators": [
+    {
+      "name": "Liu, Bin",
+      "orcid": "0000-0002-0617-3629",
+      "affiliation": "Heyou Hospital, Foshan, China"
+    },
+    {
+      "name": "Ni, Zhen",
+      "affiliation": "Heyou Hospital, Foshan, China"
+    },
+    {
+      "name": "Liang, Runbin",
+      "affiliation": "Heyou Hospital, Foshan, China"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "keywords": [
+    "esophageal squamous cell carcinoma",
+    "endothelium",
+    "single-cell RNA sequencing",
+    "BMC Genomics"
+  ]
+}
